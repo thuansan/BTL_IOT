@@ -5,13 +5,13 @@ import json
 from fsm import *
                                                                                                                                                        
                                                                                                                                                        
-# Update the Adafruit IO configurations
+# Update the Adafruit IO configurations-
                                                                                                                                                      
 AIO_FEED_IDs = ["nutnhan1","nutnhan2","nutnhan3"]
 AIO_USERNAME = "HThuanN"
 AIO_KEY = "aio_qztQ70a8LX30imG1i0gzwbeDeeu9"
 
-# Define the file path for the scheduler data
+# Define the file path for the scheduler data-
 
 SCHEDULER_FILE_PATH = 'schedulers.txt'
                                                                                                                                                        
