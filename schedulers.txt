@@ -1,0 +1,63 @@
+{                                                                                                                                                      
+                                                                                                                                                       
+  "sched1": {                                                                                                                                          
+                                                                                                                                                       
+    "cycle": 3,                                                                                                                                        
+                                                                                                                                                       
+    "flow1": 5,                                                                                                                                        
+                                                                                                                                                       
+    "flow2": 6,                                                                                                                                        
+                                                                                                                                                       
+    "flow3": 7,                                                                                                                                        
+                                                                                                                                                       
+    "isActive": true,                                                                                                                                  
+                                                                                                                                                       
+    "schedulerName": "Scheduler 1",                                                                                                                    
+                                                                                                                                                       
+    "startTime": "22:00",                                                                                                                              
+                                                                                                                                                       
+    "stopTime": "22:03"                                                                                                                                
+                                                                                                                                                       
+  },                                                                                                                                                   
+                                                                                                                                                       
+  "sched2": {                                                                                                                                          
+                                                                                                                                                       
+    "cycle": 2,                                                                                                                                        
+                                                                                                                                                       
+    "flow1": 3,                                                                                                                                        
+                                                                                                                                                       
+    "flow2": 4,                                                                                                                                        
+                                                                                                                                                       
+    "flow3": 5,                                                                                                                                        
+                                                                                                                                                       
+    "isActive": false,                                                                                                                                 
+                                                                                                                                                       
+    "schedulerName": "Scheduler 2",                                                                                                                    
+                                                                                                                                                       
+    "startTime": "23:00",                                                                                                                              
+                                                                                                                                                       
+    "stopTime": "23:30"                                                                                                                                
+                                                                                                                                                       
+  },                                                                                                                                                   
+                                                                                                                                                       
+  "sched3": {                                                                                                                                          
+                                                                                                                                                       
+    "cycle": 4,                                                                                                                                        
+                                                                                                                                                       
+    "flow1": 2,                                                                                                                                        
+                                                                                                                                                       
+    "flow2": 3,                                                                                                                                        
+                                                                                                                                                       
+    "flow3": 4,                                                                                                                                        
+                                                                                                                                                       
+    "isActive": true,                                                                                                                                  
+                                                                                                                                                       
+    "schedulerName": "Scheduler 3",                                                                                                                    
+                                                                                                                                                       
+    "startTime": "21:00",                                                                                                                              
+                                                                                                                                                       
+    "stopTime": "21:30"                                                                                                                                
+                                                                                                                                                       
+  }                                                                                                                                                    
+                                                                                                                                                       
+}             
